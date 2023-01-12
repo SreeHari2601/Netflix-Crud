@@ -1,0 +1,37 @@
+<div class="container mt-5 border border-light p-3">
+
+    <form #updateMovForm="ngForm" action="">
+     <div class="row">
+     <h3 id="addhead" class=" text-center mb-3"> Update Movie Details</h3>
+     <div class=" col-md-4"></div>
+     <div class=" col-md-4 m-5">
+      <div class="mb-2">
+          <input [(ngModel)]="movieDetails.id"  name="id" placeholder="Movie-Id" type="text" class="form-control">
+      </div>
+      <div class="mb-2">
+          <input [(ngModel)]="movieDetails.name"    name="name" placeholder="Movie-name" type="text" class="form-control">
+      </div>
+      <div class="mb-2">
+          <input [(ngModel)]="movieDetails.category"  name="category" placeholder="Movie-category" type="text" class="form-control">
+      </div>
+      <div class="mb-2">
+        <input [(ngModel)]="movieDetails.photograph"    name="photograph" placeholder="Movie-photograph" type="text" class="form-control">
+    </div>
+    <div class="mb-2">
+        <input [(ngModel)]="movieDetails.placeholder"   name="match" placeholder="Movie-match" type="text" class="form-control">
+    </div>
+    <div class="mb-2">
+        <input [(ngModel)]="movieDetails.Descp"  name="Descp" placeholder="Movie-Descp" type="text" class="form-control">
+    </div>
+    <div class="text-center m-5">
+    <button (click)="UpdateMovie(updateMovForm)" class="btn btn-dark" type="submit">Update Movie</button>
+     </div>
+     </div>
+
+     
+ 
+     </div>
+     
+  
+    </form>
+  </div>

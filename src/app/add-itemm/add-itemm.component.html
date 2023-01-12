@@ -1,0 +1,46 @@
+
+    <body class="">
+        
+    
+    <div class="container mt-5 border border-light p-3">
+
+    <form action="">
+     <div class="row">
+     <h3 id="addhead" class=" text-center mb-3"> Add New Movie Details</h3>
+     <div class=" col-md-4"></div>
+     <div class=" col-md-4 m-5">
+      <div class="mb-2">
+          <input [(ngModel)]="id" name="id" placeholder="Movie-Id" type="text" class="form-control">
+      </div>
+      <div class="mb-2">
+          <input [(ngModel)]="name"    name="name" placeholder="Movie-name" type="text" class="form-control">
+      </div>
+      <div class="mb-2">
+          <input [(ngModel)]="category"  name="category" placeholder="Movie-category" type="text" class="form-control">
+      </div>
+      <div class="mb-2">
+        <input  [(ngModel)]="photograph"  name="photograph" placeholder="Movie-photograph" type="text" class="form-control">
+    </div>
+    <div class="mb-2">
+        <input [(ngModel)]="match"  name="match" placeholder="Movie-match" type="text" class="form-control">
+    </div>
+    <div class="mb-2">
+        <input [(ngModel)]="Descp"  name="Descp" placeholder="Movie-Descp" type="text" class="form-control">
+    </div>
+    <div class="text-center m-5">
+    <button (click)="addMovie()" class="btn btn-dark">Add Movie</button>
+     </div>
+     </div>
+
+     
+ 
+     </div>
+     
+  
+    </form>
+  </div>
+</body>
+
+
+
+  

@@ -1,0 +1,146 @@
+{
+  "movies": [
+    {
+      "id": 2,
+      "name": "13 Reasons Why",
+      "category": "DRAMA | 3 seasons",
+      "photograph": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTN3q7oD3umGbhDFoD7tnct3VIMEctDJ3_f6VN6z6CZveDlph55",
+      "match": "Matched 90% ✅",
+      "Descp": "Newcomer Katherine Langford plays the role of Hannah, a young woman who takes her own life. Two weeks after her tragic death, a classmate named Clay finds a mysterious box on his porch. Inside the box are recordings made by Hannah --- on whom Clay had a crush --- in which she explains the 13 reasons…"
+    },
+    {
+      "id": 3,
+      "name": "The Walking Dead",
+      "category": "DRAMA | 3 seasons",
+      "photograph": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT66OfCanEb0DJfv8Fw8ZYNB5CCVyMR91nZvMIiQODs5vY3g25R",
+      "match": "83% Matched ✅",
+      "Descp": "In the wake of a zombie apocalypse, various survivors struggle to stay alive. As they search for safety and evade the undead, they are forced to grapple with rival groups and difficult choices."
+    },
+    {
+      "id": 4,
+      "name": "Money Heist",
+      "category": "DRAMA | 3 seasons",
+      "photograph": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQcEazg1RHMebusfpj_3nR8f-d_CgNLxAc0Wm9foVDza9M4hKcf",
+      "match": "73 Matched ✅",
+      "Descp": "A criminal mastermind who goes by The Professor has a plan to pull off the biggest heist in recorded history -- to print billions of euros in the Royal Mint of Spain. To help him carry out the ambitious plan, he recruits eight people with certain abilities and who have nothing to lose. "
+    },
+    {
+      "id": 5,
+      "name": "Dark",
+      "category": "DRAMA | 3 seasons",
+      "photograph": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS15WXzJnh5FKZcjV7jwxj57HtPiu-mJyMBPJL7E2rPEFbLRPjA",
+      "match": "73% Matched ✅",
+      "Descp": "When two children go missing in a small German town, its sinful past is exposed along with the double lives and fractured relationships that exist among four families as they search for the kids. The mystery-drama series introduces an intricate "
+    },
+    {
+      "id": "6",
+      "name": "STRANGER THINGS",
+      "category": "DRAMA",
+      "photograph": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjEzMDAxOTUyMV5BMl5BanBnXkFtZTgwNzAxMzYzOTE@._V1_.jpg",
+      "Descp": "In 1980s Indiana, a group of young friends witness supernatural forces and secret government exploits. As they search for answers, the children unravel a series of extraordinary mysteries."
+    },
+    {
+      "id": "1",
+      "name": "Narcos 💰",
+      "match": "Matched 90% ✅",
+      "photograph": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQiLzRKo-uluXxDzIINYpNUg7CtFDX-0FDdYBPFlPA2LHErvg79",
+      "category": "DRAMA | 3 seasons",
+      "Descp": "Is Narcos a true story? Narcos is an American-Colombian crime drama television series created and produced by Chris Brancato, Carlo Bernard, and Doug Miro. Set and filmed in Colombia, seasons 1 and 2 are based...."
+    },
+    {
+      "id": "7",
+      "name": "Fifty Shades of Grey",
+      "category": "Romance/Drama",
+      "photograph": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTvEWi6zY_USRze5TBPGxJDRoQGAFs_yYmYuSEmM01fxB-LWysY",
+      "match": "Matched 90% ✅",
+      "Descp": "Christian Grey — the mysterious lead character in \"50 Shades of Grey\" — was based on a smolderingly hot Italian real estate agent"
+    },
+    {
+      "id": "9",
+      "name": "The Good Doctor",
+      "match": "Matched 90% ✅",
+      "photograph": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQnC3w_K_KEv3H53iPLFWtBjONc7818vKN2O0oFnoHbFI2It1Jp",
+      "category": "Medical drama",
+      "Descp": "The Good Doctor: Created by David Shore. With Freddie Highmore, Hill Harper, Richard Schiff, Christina Chang. Shaun Murphy, a young surgeon with autism and ..."
+    },
+    {
+      "id": "10",
+      "name": "Naruto: Shippuden",
+      "match": "Matched 90% ✅",
+      "photograph": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHCLUwtRLROUv7XGNUfae2SLMTtkWR85QjNcMGx3o2sk-kz3Dq",
+      "category": " Action fiction",
+      "Descp": "Naruto, an adolescent ninja, dreams of becoming the Hokage in his village."
+    },
+    {
+      "id": "11",
+      "name": "Rick and Morty",
+      "match": "Matched 90% ✅",
+      "photograph": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ6LjRl97iF0HH-IzAoScbHURhxr6W4lWqosB5J1Xd9FMS7PRwf",
+      "category": "Sitcom",
+      "Descp": "Rick and Morty is an American adult animated science-fiction sitcom created by Justin Roiland and Dan Harmon for Cartoon Network's nighttime programming ..."
+    },
+    {
+      "id": "12",
+      "name": "Peaky Blinders",
+      "category": "Drama",
+      "photograph": "https://es.web.img2.acsta.net/pictures/18/03/14/14/20/1756999.jpg",
+      "Descp": "The Peaky Blinders were a street gang based in Birmingham, England, which operated from the 1880s until the 1910s."
+    },
+    {
+      "id": "20",
+      "name": "Dahmer",
+      "match": "Matched 90% ✅",
+      "photograph": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTAWsyqEW9LCo60yzwBE4KdNedORPn3q4GHaKf_DZSgHShR3PaN",
+      "category": " Drama",
+      "Descp": "This isn't just a fictional crime series but one that's based on a real-life story"
+    },
+    {
+      "id": "21",
+      "name": "Red Notice",
+      "category": " Drama",
+      "photograph": "https://m.media-amazon.com/images/M/MV5BMDhmOTBmODItMDkyMy00YzUwLTk1M2UtNjhhM2ZjMzNkOWYxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+      "match": "Matched 90% ✅",
+      "Descp": "The movie will have a budget of $200 million, which is Netflix's biggest budget yet for a feature film."
+    },
+    {
+      "id": "22",
+      "name": "The Babysitter",
+      "match": "Matched 90% ✅",
+      "photograph": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ4OTqbdUhirjz0Amy0iP9g3_4fmcsWINx6HKCdzur3UnqHqHGm",
+      "category": " Drama",
+      "Descp": "The Babysitter: Killer Queen was shot in Los Angeles, California, USA. Filming also took place at Warner Bros. Ranch Facilities in Burbank."
+    },
+    {
+      "id": "23",
+      "name": "The Vampire Diaries",
+      "match": "Matched 90% ✅",
+      "photograph": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTY25rJZiXv9YNl-BkbfXOVYEbaSKq6Jrb4h6sJKfDEqgTM4k9m",
+      "category": " Drama",
+      "Descp": "Yes, the show is worth it. Like all long running series–The Vampire Diaries clocks in at eight seasons with a total of 171 episodes–it does.."
+    },
+    {
+      "id": "24",
+      "name": "365 Days: This Day",
+      "match": "Matched 90% ✅",
+      "photograph": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkBgTPjHZXRkPQieZxrPIP9wFlNOUB-QKreqosQLbSnPS1P-aY",
+      "category": " Drama",
+      "Descp": "erving as a sequel to 365 Days, it is based on This Day, the second novel of a trilogy by Blanka Lipińska and stars Anna-Maria Sieklucka, Michele Morrone, ..."
+    },
+    {
+      "id": "25",
+      "name": "Death Note",
+      "match": "Matched 90% ✅",
+      "photograph": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQS7y1FQJWRv2I6YkjTZWRKhP_b391XQYKu14V7vV2vWmQ5NFeD",
+      "category": " Drama",
+      "Descp": "Although the 37 episodes in the first season were adapted from the twelve manga volumes with the same ending,"
+    },
+    {
+      "id": "26",
+      "name": "The Adam Project",
+      "match": "Matched 90% ✅",
+      "photograph": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSGZMvynxlczttOzspLoBEulfsZHR4kiKQ_k-oixot8HxNz1xds",
+      "category": " Drama",
+      "Descp": "The Adam Project works namely because Ryan Reynolds is always charming, even if he's playing variants of himself across movies like this, Red Notice..."
+    }
+  ]
+}

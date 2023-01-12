@@ -1,0 +1,36 @@
+<section class="py-5 bg-dark text-light">
+    <div class="container px-4 px-lg-5 my-5">
+        <div class="row gx-4 gx-lg-5 align-items-center">
+            <div class="col-md-6"><img style="height:700px" class="card-img-top mb-5 mb-md-0 rounded w-70" src="{{movieDetails.photograph}}" alt="..." /></div>
+            <div class="col-md-6">
+                <div class=" mb-1 text-warning Fw-3">{{movieDetails.match}}</div><p>2017 <b>HD</b></p> 
+                <h1 class="display-5 fw-bolder">{{movieDetails.name}}</h1>
+                <div class="fs-5 mb-5">
+                    <span class="text-center text-success">{{movieDetails.category}}</span>&nbsp; 
+                    <b>🔞</b>
+                </div>
+                <p class="lead">{{movieDetails.Descp}}</p>
+                <div class="d-flex">
+                    
+                    <button class="btn btn-outline-dark text-danger flex-shrink-0" type="button">
+                        <i class="fa-solid fa-play"></i>&nbsp; 
+                        Play
+                    </button>&nbsp; &nbsp; &nbsp; &nbsp; 
+                    <button class="btn btn-outline-dark text-danger flex-shrink-0" type="button">
+                        <i class="fa-solid fa-folder-plus"></i>&nbsp;
+                        List
+                    </button>&nbsp; &nbsp; &nbsp; &nbsp; 
+                    <button class="btn btn-outline-dark text-danger  flex-shrink-0 " type="button">
+                        <i class="fa-solid fa-star"></i>
+                        Rate
+                    </button> 
+                    
+                    <div class="m-1">&nbsp;&nbsp;
+                      <a class="text-secondary" href="update-item/{{movieDetails.id}}">Update Movie Details</a>&nbsp;  | &nbsp;&nbsp;
+                      <a class="text-secondary" href="delete-item/{{movieDetails.id}}">Delete Movie </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

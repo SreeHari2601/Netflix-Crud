@@ -1,0 +1,29 @@
+/* You can add global styles to this file, and also import other style files */
+h1 {
+     color: wheat;
+     font-size: 40px; 
+     font-family:Georgia, 'Times New Roman', Times, serif;
+     font-style: italic;
+     font-style: normal;
+     text-decoration:wavy
+     
+}
+
+#head {
+    margin-right: 800px;
+    margin-bottom: 50px;
+}
+
+#b1{
+    margin-right: 850px;
+}
+
+#b2{
+    margin-right: 570px;
+    margin-top: -125px;
+}
+
+#addhead {
+    margin-left: 40px;
+    color: rgb(5, 4, 4);
+}

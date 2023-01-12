@@ -1,0 +1,33 @@
+<div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="false">
+  <div class="carousel-indicators">
+  </div>
+  <div class="carousel-inner height-1500px">
+    <div class="carousel-item active">
+      <img  src="https://images6.alphacoders.com/109/1091705.jpg" class="d-block w-100" alt="...">
+      <div class="carousel-caption d-none d-md-block ms-5">
+        <h1 id="head" >N<b class="text-decoration-line-through text-danger ">ARCOS</b> colombia's infamously violent and powerfull drug cartels fuels this gritty gangster drama series.</h1>
+        <button id="b1" type="button" class="btn btn-dark btn-lg mb-5 btn-outline-warning ms-5"> <i class="fa-solid fa-play"></i>&nbsp; 
+          Play </button>&nbsp; &nbsp; &nbsp; &nbsp; 
+        <button id="b2" type="button" class="btn btn-dark btn-lg mb-5 btn-outline-warning ms-5">
+          <i class="fa-solid fa-folder-plus"></i>&nbsp; My List</button>
+        
+      </div>
+    </div>
+  </div>
+</div>
+<div>
+  <section class="py-5 bg-dark">
+    <div class=" px-5 px-lg-5 mt-5">
+        <div class="row gx-4 gx-lg-5 row-cols-2 row-cols-md-3 row-cols-xl-6">
+            <div class="col mb-5" *ngFor="let movie of movieList | filter : searchTerm : 'name'">
+                <div class="card h-100" >
+                    <!-- Product image-->
+                    <img class="card-img-top" src="{{movie.photograph}}" alt="No Image" />
+                    <a class="btn btn-dark btn-outline-warning mt-auto" href="view-item/{{movie.id}}">Watch </a>
+                </div>
+            </div>
+        </div>
+       
+    </div>
+    
+</section>
